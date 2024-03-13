@@ -1,1 +1,1 @@
-![Alt text](UML.png "UML")
+![ScreenShot](UML.png)
